@@ -1,0 +1,2 @@
+apt-get install gcc -y ##OR## apt-get install build-essential
+apt-get install git -y

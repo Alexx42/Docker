@@ -1,0 +1,1 @@
+docker-machine ssh Aiur "docker swarm join --token SWMTKN-1-40zu7dmuvojsb4vvme7zrglibg4tpt0garbo40ybg3poll6cfu-egmetbv29ucnxa0xg46isl36p 192.168.99.100:2377"
